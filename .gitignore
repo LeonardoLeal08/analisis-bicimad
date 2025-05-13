@@ -1,0 +1,20 @@
+# Archivos de credenciales
+.env
+
+# Carpetas de datos recolectados
+scheduled_run/
+
+# Archivos del sistema
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.idea
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Logs
+*.log
