@@ -59,7 +59,6 @@ analisis-datos-bicimad/
 ├── src/
 │   ├── analysis/                               # Notebooks o scripts de análisis (EDA)
 │   │   └── EDA_BiciMAD.ipynb
-│   │   └── EDA_BiciMAD.html                    # Version HTML para mejor observación
 │   ├── collector/
 │   │   └── BiciMAD_Data_Collector.py           # Script para recolectar datos de la API
 │   │   └──BiciMAD_Scheduled_Collector.py       # Script para programar la recolección de principio a fin
